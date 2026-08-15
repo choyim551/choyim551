@@ -19,5 +19,5 @@ jobs:
           SHOW_TOTAL: true
           CODE_LANG: rust
           LANG_COUNT: 10
-git a          STOP_AT_OTHER: true
+          STOP_AT_OTHER: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
