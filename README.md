@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```c
-Total Time: 208 hrs 3 mins
+Total Time: 208 hrs 19 mins
 
-TypeScript        69 hrs 59 mins        ●●●●●●●●◑○○○○○○○○○○○○○○○○   33.59 %
-Svelte            26 hrs 7 mins         ●●●◔○○○○○○○○○○○○○○○○○○○○○   12.54 %
-JavaScript        23 hrs 35 mins        ●●◕○○○○○○○○○○○○○○○○○○○○○○   11.33 %
-Java              20 hrs 50 mins        ●●◑○○○○○○○○○○○○○○○○○○○○○○   10.00 %
-Lua               14 hrs 19 mins        ●◕○○○○○○○○○○○○○○○○○○○○○○○   06.88 %
-C                 10 hrs 27 mins        ●◔○○○○○○○○○○○○○○○○○○○○○○○   05.02 %
-Rust              7 hrs 44 mins         ●○○○○○○○○○○○○○○○○○○○○○○○○   03.72 %
+TypeScript        69 hrs 59 mins        ●●●●●●●●◑○○○○○○○○○○○○○○○○   33.55 %
+Svelte            26 hrs 7 mins         ●●●◔○○○○○○○○○○○○○○○○○○○○○   12.52 %
+JavaScript        23 hrs 35 mins        ●●◕○○○○○○○○○○○○○○○○○○○○○○   11.31 %
+Java              20 hrs 50 mins        ●●◑○○○○○○○○○○○○○○○○○○○○○○   09.99 %
+Lua               14 hrs 19 mins        ●◕○○○○○○○○○○○○○○○○○○○○○○○   06.87 %
+C                 10 hrs 43 mins        ●◔○○○○○○○○○○○○○○○○○○○○○○○   05.14 %
+Rust              7 hrs 44 mins         ●○○○○○○○○○○○○○○○○○○○○○○○○   03.71 %
 ```
 
 <!--END_SECTION:waka-->
