@@ -7,7 +7,7 @@
 ```c
 Total Time: 251 hrs 31 mins
 
-TypeScript        69 hrs 59 mins        ●●●●●●●○○○○○○○○○○○○○○○○○○   27.79 %
+TypeScript        69 hrs 59 mins        ●●●●●●●○○○○○○○○○○○○○○○○○○   27.78 %
 C                 38 hrs 51 mins        ●●●◕○○○○○○○○○○○○○○○○○○○○○   15.43 %
 Svelte            26 hrs 7 mins         ●●◑○○○○○○○○○○○○○○○○○○○○○○   10.37 %
 JavaScript        23 hrs 35 mins        ●●◔○○○○○○○○○○○○○○○○○○○○○○   09.37 %
